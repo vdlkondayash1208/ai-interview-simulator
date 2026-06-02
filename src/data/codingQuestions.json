@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c1",
+    "title": "Two Sum",
+    "difficulty": "Easy",
+    "tags": ["Array", "Hash Table"],
+    "description": "Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.",
+    "starterCode": "function twoSum(nums, target) {\n  // Write your code here\n};",
+    "testCases": [
+      { "input": "[2,7,11,15], 9", "output": "[0,1]" },
+      { "input": "[3,2,4], 6", "output": "[1,2]" }
+    ]
+  },
+  {
+    "id": "c2",
+    "title": "Longest Substring Without Repeating Characters",
+    "difficulty": "Medium",
+    "tags": ["String", "Sliding Window"],
+    "description": "Given a string s, find the length of the longest substring without repeating characters.",
+    "starterCode": "function lengthOfLongestSubstring(s) {\n  // Write your code here\n};",
+    "testCases": [
+      { "input": "\"abcabcbb\"", "output": "3" },
+      { "input": "\"bbbbb\"", "output": "1" }
+    ]
+  }
+]

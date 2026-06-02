@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Mercer",
+    "email": "alex@example.com",
+    "password": "password123",
+    "careerGoal": "Frontend Developer",
+    "avatar": "A",
+    "stats": {
+      "xp": 1250,
+      "streak": 5,
+      "readinessScore": 82
+    },
+    "history": [
+      {
+        "round": "aptitude",
+        "score": 85,
+        "date": "2026-05-10"
+      },
+      {
+        "round": "programming",
+        "score": 92,
+        "date": "2026-05-11"
+      }
+    ],
+    "weakTopics": ["Dynamic Programming", "System Design"],
+    "skills": ["React", "TypeScript", "Tailwind CSS"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "q1",
+    "category": "Logical Reasoning",
+    "question": "If all bloops are razzies and all razzies are lazzies, are all bloops definitely lazzies?",
+    "options": ["Yes", "No", "Cannot be determined"],
+    "correctAnswer": 0,
+    "difficulty": "Medium",
+    "company": "Google"
+  },
+  {
+    "id": "q2",
+    "category": "Quantitative",
+    "question": "A train 120 meters long is running with a speed of 60 km/hr. In what time will it pass a boy who is running at 6 km/hr in the direction opposite to that in which the train is going?",
+    "options": ["6.54 sec", "44.32 sec", "55 sec", "6.54 min"],
+    "correctAnswer": 0,
+    "difficulty": "Hard",
+    "company": "Amazon"
+  },
+  {
+    "id": "q3",
+    "category": "Verbal",
+    "question": "Choose the word which is most nearly the opposite in meaning to the word 'OBSTINATE'.",
+    "options": ["Flexible", "Stubborn", "Firm", "Resolute"],
+    "correctAnswer": 0,
+    "difficulty": "Easy",
+    "company": "TCS"
+  }
+]

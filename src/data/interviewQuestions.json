@@ -1,0 +1,20 @@
+[
+  {
+    "id": "i1",
+    "question": "Tell me about yourself and your journey so far.",
+    "expectedKeywords": ["experience", "education", "passion", "skills"],
+    "duration": 120
+  },
+  {
+    "id": "i2",
+    "question": "Describe a time when you faced a challenging technical problem and how you solved it.",
+    "expectedKeywords": ["challenge", "solution", "teamwork", "outcome", "learned"],
+    "duration": 180
+  },
+  {
+    "id": "i3",
+    "question": "Where do you see yourself in 5 years?",
+    "expectedKeywords": ["growth", "leadership", "impact", "learning"],
+    "duration": 120
+  }
+]

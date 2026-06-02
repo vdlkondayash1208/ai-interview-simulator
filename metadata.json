@@ -1,0 +1,6 @@
+{
+  "name": "AI Interview Planner",
+  "description": "Comprehensive AI-powered platform for interview preparation across technical, management, and aptitude rounds with real-time feedback and anti-cheating monitoring.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
